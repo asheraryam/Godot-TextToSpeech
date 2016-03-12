@@ -34,7 +34,7 @@ Add the following in the engine.cfg file:
 
 > singleton.fireTTS() # fires up the TextToSpeech engine
 
-> singleton.speakText() # speaks up the Text passed 
+> singleton.speakText(words) # speaks up the Text passed 
 
 ###Build the game apk
 From the settings of the godot engine UI:
