@@ -10,7 +10,7 @@
 
 - Move the textotospeech/GodotTextToSpeech.java to godot/platform/android/java/src/org/godotengine/godot
 
-- Import the texttest example project in Godot for a test run [ Not a great UI. Just functionality demonstration ]
+- Import the texttest example project in Godot for a test run. Type the text in the text box and click the 'Speak' button.  [ Not a great UI. Just functionality demonstration ]
 
 
 **Note:** The texttospeech/android.jar is taken from  *android-sdk-linux/platforms/android-19*. You may choose to use any other api version.
