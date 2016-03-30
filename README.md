@@ -52,4 +52,5 @@ MIT
 Other plugins: 
 - [GodotVibrate](https://github.com/literaldumb/GodotVibrate) 
 - [Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText)
+- [Godot-CustomSpeech](https://github.com/literaldumb/Godot-CustomSpeech)
 
